@@ -9,3 +9,4 @@ local, 원격저장소 사용하기
 push, pull 명령어 사용하기
 
 git과 친해졌으면
+git은 너무 어려워
